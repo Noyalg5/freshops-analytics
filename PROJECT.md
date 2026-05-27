@@ -1,4 +1,4 @@
-# FreshOps Analytics — CLAUDE.md
+# FreshOps Analytics — Developer Guide
 
 KTP prototype for lean waste and efficiency analytics in a fresh produce packing operation.
 Built in collaboration between **Anglia Ruskin University (ARU)** and **Wealmoor Ltd**.
